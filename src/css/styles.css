@@ -162,6 +162,7 @@ img {
 }
 
 .nav__logo {
+  font-size: 50px;
   color: var(--second-color);
 }
 
@@ -321,20 +322,17 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 85%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 70%;
 }
 
 .skills__js {
-  width: 65%;
+  width: 60%;
 }
 
-.skills__ux {
-  width: 85%;
-}
 
 .skills__img {
   border-radius: .5rem;
