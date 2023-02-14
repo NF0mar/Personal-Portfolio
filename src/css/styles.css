@@ -322,17 +322,20 @@ img {
 }
 
 .skills__html {
-  width: 85%;
+  width: 95%;
 }
 
 .skills__css {
-  width: 70%;
+  width: 80%;
 }
 
 .skills__js {
   width: 60%;
 }
 
+.skills__java {
+  width: 50%;
+}
 
 .skills__img {
   border-radius: .5rem;
